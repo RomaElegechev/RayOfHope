@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 940953cb8169c8046b5d0985a008c5b2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5037106888373086889
+    second: FirstStarBack_0
+  - first:
+      213: 1481263002581108028
+    second: FirstStarBack_1
+  - first:
+      213: 4892268943921924329
+    second: FirstStarBack_2
+  - first:
+      213: 867761407244336681
+    second: FirstStarBack_3
+  - first:
+      213: -2875142133438213604
+    second: FirstStarBack_4
+  - first:
+      213: -876995289078203070
+    second: FirstStarBack_5
+  - first:
+      213: -6035604955505687803
+    second: FirstStarBack_6
+  - first:
+      213: 3152907184039943473
+    second: FirstStarBack_7
+  - first:
+      213: -6097057517382303640
+    second: FirstStarBack_8
+  - first:
+      213: -981709367368294451
+    second: FirstStarBack_9
+  - first:
+      213: -2702705730966660822
+    second: FirstStarBack_10
+  - first:
+      213: 254187774830737702
+    second: FirstStarBack_11
+  - first:
+      213: 8966144532245315002
+    second: FirstStarBack_12
+  - first:
+      213: -8208545371454003431
+    second: FirstStarBack_13
+  - first:
+      213: 985740851160111279
+    second: FirstStarBack_14
+  - first:
+      213: -9057909025983374086
+    second: FirstStarBack_15
+  - first:
+      213: -6941652506635096934
+    second: FirstStarBack_16
+  - first:
+      213: 1114563110465873564
+    second: FirstStarBack_17
+  - first:
+      213: -7592969345612946827
+    second: FirstStarBack_18
+  - first:
+      213: 6160005457534300088
+    second: FirstStarBack_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FirstStarBack_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 427
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aaa629f60667e540800000000000000
+      internalID: 5037106888373086889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_1
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 448
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3586cf4ad08e8410800000000000000
+      internalID: 1481263002581108028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_2
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 436
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e844242fa4d4e340800000000000000
+      internalID: 4892268943921924329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_3
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 445
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e779cf668ea0c00800000000000000
+      internalID: 867761407244336681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_4
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 394
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1218a976717918d0800000000000000
+      internalID: -2875142133438213604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_5
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 415
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d7dcc5e6944d3f0800000000000000
+      internalID: -876995289078203070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_6
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 397
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5030f7e55493d3ca0800000000000000
+      internalID: -6035604955505687803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_7
+      rect:
+        serializedVersion: 2
+        x: 1820
+        y: 364
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d5a7a016061cb20800000000000000
+      internalID: 3152907184039943473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_8
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 328
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8608d45dd76e26ba0800000000000000
+      internalID: -6097057517382303640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 271
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfd65d18844062f0800000000000000
+      internalID: -981709367368294451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_10
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 259
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29d15d057f0e7ad0800000000000000
+      internalID: -2702705730966660822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 181
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62978093f6e078300800000000000000
+      internalID: 254187774830737702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_12
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 127
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdfa4982f42e6c70800000000000000
+      internalID: 8966144532245315002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_13
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 139
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917aec3b973651e80800000000000000
+      internalID: -8208545371454003431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_14
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 145
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa85df9d41e0ead00800000000000000
+      internalID: 985740851160111279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_15
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 112
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcd4725bb7db4280800000000000000
+      internalID: -9057909025983374086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 0
+        width: 77
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ca0dbd2db4aaf90800000000000000
+      internalID: -6941652506635096934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_17
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 46
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96a2176e39b77f00800000000000000
+      internalID: 1114563110465873564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_18
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 10
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5726f440c9a50a690800000000000000
+      internalID: -7592969345612946827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FirstStarBack_19
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 0
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfacc6935cbc7550800000000000000
+      internalID: 6160005457534300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FirstStarBack_0: 5037106888373086889
+      FirstStarBack_1: 1481263002581108028
+      FirstStarBack_10: -2702705730966660822
+      FirstStarBack_11: 254187774830737702
+      FirstStarBack_12: 8966144532245315002
+      FirstStarBack_13: -8208545371454003431
+      FirstStarBack_14: 985740851160111279
+      FirstStarBack_15: -9057909025983374086
+      FirstStarBack_16: -6941652506635096934
+      FirstStarBack_17: 1114563110465873564
+      FirstStarBack_18: -7592969345612946827
+      FirstStarBack_19: 6160005457534300088
+      FirstStarBack_2: 4892268943921924329
+      FirstStarBack_3: 867761407244336681
+      FirstStarBack_4: -2875142133438213604
+      FirstStarBack_5: -876995289078203070
+      FirstStarBack_6: -6035604955505687803
+      FirstStarBack_7: 3152907184039943473
+      FirstStarBack_8: -6097057517382303640
+      FirstStarBack_9: -981709367368294451
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
